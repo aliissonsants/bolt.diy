@@ -126,7 +126,7 @@ export default defineConfig((config) => {
       },
     },
     server: {
-      allowedHosts: 'zenkai-coder.onrender.com',
+      allowedHosts: 'all',
     }
   };
 });
